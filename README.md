@@ -17,20 +17,22 @@ Since the app is both a social and an archive app, users won’t simply do one t
 <h2>Wireframes </h2>
 <p> some changes were made after this photo was taken so the additon of colored lines and the labeling of circles on the first photo/page of wireframes. I also created the "JOIN" typo. </p>
 
-**FIRST PAGE: wireframes are labelled as 1-3 left to right for the first row and second row is labelled 4-6, left to right as well.** specifiction made, sense I may refer to the individual screens in my reflection.
+**FIRST PAGE: wireframes are labelled as 1-3 left to right for the first row and second row is labelled 4-6, left to right as well.** specifiction made, since I may refer to the individual screens in my reflection.
 <img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="first page of wireframes">
 
-**SECOND PAGE: wireframes are labelled as 1-3 left to right for the first row and second row is labelled 4-6, left to right as well.** specifiction made, sense I may refer to the individual screens in my reflection.
+**SECOND PAGE: wireframes are labelled as 1-3 left to right for the first row and second row is labelled 4-6, left to right as well.** specifiction made, since I may refer to the individual screens in my reflection.
 <img src="https://user-images.githubusercontent.com/82078120/117216106-1c924a80-adb4-11eb-8266-9cad1b171f04.jpg" alt="second page of wireframes">
 
 
 
 
+<h2> Results</h2>
+
 **Task One: search for a book group**
 <ol>
-  <li>User searched for a book group by searching by genre instead of group --> Already surprised at the first step they took. </li>
-  <li>user wrote down their own options in screen 3 of the search on the first row. This is indictive of an error on my end. I should I have put "options" or something in the blank spaces to show that by simply clicking on the search sign gives you options already. </li>
-  <li>after screen 3, the steps were easy enough where they did the steps I hoped they world: i.e. clicking a group, then going to the next page and quickly clicking the "Join Button"</li>
+  <li>User searched for a book group by searching by genre instead of group --> Already surprised at the first step they took. if this was an actual app prototype they would not have beento do this and it wouldn't be an error on their part but mine since I 100% understand why they think groups can be searched by genre as well. </li>
+  <li>user wrote down their own genre options in screen 3 of the first page. This is indictive of an error on my end. I should I have put "options" or something in the blank spaces to show that they exist to show that by simply clicking on the search sign, it gives you options to help with your search. </li>
+  <li>after screen 3 on the first page, the steps were easy enough where they did the steps I hoped they world: i.e. clicking a group, then going to the next page and quickly clicking the "Join Button"</li>
 </ol>
 
 **Task Two: favorite a book**
@@ -39,9 +41,13 @@ Since the app is both a social and an archive app, users won’t simply do one t
   <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
 </ol>
 
-**Task Two: favorite a book**
+**Task Three: change the language of the app**
 <ol>
-  <li>They had to think a bit on how to reach the page to favorite a book. they have been good about following the arrows but when they saw the page with the favorite "star" option, they worked backgrounds from that page instead of going forward/follwoing the arrows from the "join the book group" page.</li>
+  <li>this task was quite easy for them. THey did not face any notable difficulties. </li>
   <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
 </ol>
+
+<h2> Reflections </h2>
+The biggest distraction for this protoype was my drawings. They were uneven and messy at times so the user took note of those characteristics. If I could do this project again, I would still do the wireframes by hand since it is good practice of protoyping since it is "easy" to be oragizned digitially. If I did this on my  iPad, I could use alot of tools to make it neater but I think handwriting is more benaficial. The user was comfortable giving me feedback and I think the paper format contributed to that feeling of ease because they see it as a "not=so-serious" task.
+
 
