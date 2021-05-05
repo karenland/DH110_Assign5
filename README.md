@@ -15,9 +15,16 @@ Since the app is both a social and an archive app, users won’t simply do one t
 <p> I will be going point by point to talk about the steps the user took and the interesting results that came from them </p>
 
 <h2>Wireframes </h2>
-<p> some changes were made after this photo was taken so the additon of colored lines and the labeling of circles on the first photo/page of wireframes. </p>
+<p> some changes were made after this photo was taken so the additon of colored lines and the labeling of circles on the first photo/page of wireframes. I also created the "JOIN" typo. </p>
 
+**FIRST PAGE: wireframes are labelled as 1-3 left to right for the first row and second row is labelled 4-6, left to right as well.** specifiction made, sense I may refer to the individual screens in my reflection.
 <img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="first page of wireframes">
+
+**SECOND PAGE: wireframes are labelled as 1-3 left to right for the first row and second row is labelled 4-6, left to right as well.** specifiction made, sense I may refer to the individual screens in my reflection.
+<img src="https://user-images.githubusercontent.com/82078120/117216106-1c924a80-adb4-11eb-8266-9cad1b171f04.jpg" alt="second page of wireframes">
+
+
+
 
 **Task One: search for a book group**
 <ol>
