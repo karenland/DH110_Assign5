@@ -13,16 +13,23 @@ Since the app is both a social and an archive app, users won’t simply do one t
 
 <h2> Reflection </h2>
 <p> I will be going point by point to talk about the steps the user took and the interesting results that came from them </p>
-**Task One: search for a book group**
-<ol>
-  <li>User searched for a book group by searching by genre instead of group --> Already surprised at the first step they took. </li>
-  <li>user wrote down their own options in screen 3 of the ifrst page. This is indictive of an error on my end. I should I have put "options" or something in the blank spaces to show that by simply clicking on the search sign gives you options already. </li>
-  <li>after screen 3, the steps were easy enough where they did the steps I hoped they world: i.e. clicking a group, then going to the next page and quickly clicking the "Join Button"</li>
-</ol>
 
 **Task One: search for a book group**
 <ol>
   <li>User searched for a book group by searching by genre instead of group --> Already surprised at the first step they took. </li>
-  <li>user wrote down their own options in screen 3 of the ifrst page. This is indictive of an error on my end. I should I have put "options" or something in the blank spaces to show that by simply clicking on the search sign gives you options already. </li>
+  <li>user wrote down their own options in screen 3 of the search on the first row. This is indictive of an error on my end. I should I have put "options" or something in the blank spaces to show that by simply clicking on the search sign gives you options already. </li>
   <li>after screen 3, the steps were easy enough where they did the steps I hoped they world: i.e. clicking a group, then going to the next page and quickly clicking the "Join Button"</li>
 </ol>
+
+**Task Two: favorite a book**
+<ol>
+  <li>They had to think a bit on how to reach the page to favorite a book. they have been good about following the arrows but when they saw the page with the favorite "star" option, they worked backgrounds from that page instead of going forward/follwoing the arrows from the "join the book group" page.</li>
+  <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
+</ol>
+
+**Task Two: favorite a book**
+<ol>
+  <li>They had to think a bit on how to reach the page to favorite a book. they have been good about following the arrows but when they saw the page with the favorite "star" option, they worked backgrounds from that page instead of going forward/follwoing the arrows from the "join the book group" page.</li>
+  <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
+</ol>
+
