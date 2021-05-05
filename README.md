@@ -14,6 +14,11 @@ Since the app is both a social and an archive app, users won’t simply do one t
 <h2> Reflection </h2>
 <p> I will be going point by point to talk about the steps the user took and the interesting results that came from them </p>
 
+<h2>Wireframes </h2>
+<p> some changes were made after this photo was taken so the additon of colored lines and the labeling of circles on the first photo/page of wireframes. </p>
+
+<img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="first page of wireframes">
+
 **Task One: search for a book group**
 <ol>
   <li>User searched for a book group by searching by genre instead of group --> Already surprised at the first step they took. </li>
