@@ -48,6 +48,8 @@ Since the app is both a social and an archive app, users won’t simply do one t
 </ol>
 
 <h2> Reflections </h2>
-The biggest distraction for this protoype was my drawings. They were uneven and messy at times so the user took note of those characteristics. If I could do this project again, I would still do the wireframes by hand since it is good practice of protoyping since it is "easy" to be oragizned digitially. If I did this on my  iPad, I could use alot of tools to make it neater but I think handwriting is more benaficial. The user was comfortable giving me feedback and I think the paper format contributed to that feeling of ease because they see it as a "not=so-serious" task.
+The biggest distraction for this protoype was my drawings. They were uneven and messy at times so the user took note of those characteristics. If I could do this project again, I would still do the wireframes by hand since it is good practice of protoyping since it is "easy" to be oragizned digitially. If I did this on my  iPad, I could use alot of tools to make it neater but I think handwriting is more benaficial. The user was comfortable giving me feedback and I think the paper format contributed to that feeling of ease because they see it as a "not=so-serious" task. Interestingly enough, the user told me she thought the overall project was really easy. She jsut said that the paper format made it hard since she had to imagine it digitally. Not sure if I should see this as a postive or negative- I feel like it could be both. Positive because they were able to iamgine my prototype as digital. Negative becuase it made me wonder if was it to messy/difficult to understand as it is.
+
+<h2> Image Journey/Steps of User </h2> 
 
 
