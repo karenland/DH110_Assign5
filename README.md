@@ -49,34 +49,27 @@ TASK ONE IMAGES
     <img src="https://user-images.githubusercontent.com/82078120/117223467-97626200-adc2-11eb-8d55-e04df0ce7de9.jpg"="user1task">
     <figcaption>user highlighted "search by genre" to indicate that they are doing so. in the blank spaces I left for options, the user filled it with genres they are interested in for book groups</figcaption>
 </figure>
+.
 
 <figure>
     <img src="https://user-images.githubusercontent.com/82078120/117223471-992c2580-adc2-11eb-91e7-5cd4db48f0af.jpg"="usertask1">
     <figcaption>user chose a group and this is indicated by them highlighting a circle field. then they were led to the next page and they "clicked" on the JOIN button to join their chosen group</figcaption>
 </figure>
-
-
-
-
+.
+.
 **Task Two: favorite a book**
 <ol>
   <li>They had to think a bit on how to reach the page to favorite a book. they have been good about following the arrows but when they saw the page with the favorite "star" option, they worked backgrounds from that page instead of going forward/follwoing the arrows from the "join the book group" page.</li>
   <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
 </ol>
-
+.
 TASK TWO IMAGE
 <figure>
     <img src="https://user-images.githubusercontent.com/82078120/117223476-9a5d5280-adc2-11eb-94fb-580995062c5e.jpg"="usertask1">
     <figcaption>user has now started the second task. they used another highlighter to indicate that that they chose the "search by genre" search option again. they also highlighted the star to indicate that they "saved/favorited" a book"</figcaption>
 </figure>
-
-
-
-
-
-
-
-
+.
+.
 **Task Three: change the language of the app**
 <ol>
   <li>this task was quite easy for them. THey did not face any notable difficulties. </li>
