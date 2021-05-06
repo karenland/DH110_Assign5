@@ -58,31 +58,36 @@ TASK ONE IMAGES
 </figure>
 
 *line skip*
-*line skip*
+
 
 **Task Two: favorite a book**
 <ol>
   <li>They had to think a bit on how to reach the page to favorite a book. they have been good about following the arrows but when they saw the page with the favorite "star" option, they worked backgrounds from that page instead of going forward/follwoing the arrows from the "join the book group" page.</li>
   <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
 </ol>
-.
+*line skip*
 TASK TWO IMAGE
 <figure>
     <img src="https://user-images.githubusercontent.com/82078120/117223476-9a5d5280-adc2-11eb-94fb-580995062c5e.jpg"="usertask1">
     <figcaption>user has now started the second task. they used another highlighter to indicate that that they chose the "search by genre" search option again. they also highlighted the star to indicate that they "saved/favorited" a book"</figcaption>
 </figure>
-.
-.
+*line skip*
 **Task Three: change the language of the app**
 <ol>
   <li>this task was quite easy for them. THey did not face any notable difficulties. </li>
-  <li>they have to utlize the search function again so instead of simply searching by title, they searched by genre again. Good to know that this feature might be popular/neccessary to have. I just have to think about how notify the users that they can simply use the search bar without and with any speciifcations. </li>
+  <li>they made one error: instead of clicking the gear option to go to the setting pages, they clicked the "Edit profile" first. I do not think this is indicitive of anything significant about the prototype. </li>
 </ol>
+*line skip*
+<figure>
+    <img src="https://user-images.githubusercontent.com/82078120/117224293-6c790d80-adc4-11eb-984c-3bbde6310142.jpg"="usertask3">
+    <figcaption>user has did the last task with ease. they did one mistake but very quickly corrected themselves. they highlighted their steps." a book"</figcaption>
+</figure>
 
+*line skip*
 <h2> Reflections </h2>
 The biggest distraction for this protoype was my drawings. They were uneven and messy at times so the user took note of those characteristics. If I could do this project again, I would still do the wireframes by hand since it is good practice of protoyping since it is "easy" to be oragizned digitially. If I did this on my  iPad, I could use alot of tools to make it neater but I think handwriting is more benaficial. The user was comfortable giving me feedback and I think the paper format contributed to that feeling of ease because they see it as a "not=so-serious" task. Interestingly enough, the user told me she thought the overall project was really easy. She jsut said that the paper format made it hard since she had to imagine it digitally. Not sure if I should see this as a postive or negative- I feel like it could be both. Positive because they were able to imagine my prototype as digital. Negative becuase it made me wonder if was it to messy/difficult to understand as it is.
 
-<h2> Image Journey/Steps of User </h2> 
+
 
 
 
