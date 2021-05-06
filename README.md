@@ -49,14 +49,17 @@ TASK ONE IMAGES
     <img src="https://user-images.githubusercontent.com/82078120/117223467-97626200-adc2-11eb-8d55-e04df0ce7de9.jpg"="user1task">
     <figcaption>user highlighted "search by genre" to indicate that they are doing so. in the blank spaces I left for options, the user filled it with genres they are interested in for book groups</figcaption>
 </figure>
-.
+
+*line skip*
 
 <figure>
     <img src="https://user-images.githubusercontent.com/82078120/117223471-992c2580-adc2-11eb-91e7-5cd4db48f0af.jpg"="usertask1">
     <figcaption>user chose a group and this is indicated by them highlighting a circle field. then they were led to the next page and they "clicked" on the JOIN button to join their chosen group</figcaption>
 </figure>
-.
-.
+
+*line skip*
+*line skip*
+
 **Task Two: favorite a book**
 <ol>
   <li>They had to think a bit on how to reach the page to favorite a book. they have been good about following the arrows but when they saw the page with the favorite "star" option, they worked backgrounds from that page instead of going forward/follwoing the arrows from the "join the book group" page.</li>
