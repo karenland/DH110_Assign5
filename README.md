@@ -83,12 +83,12 @@ TASK TWO IMAGE
     <figcaption>user has did the last task with ease. they did one mistake but very quickly corrected themselves. they highlighted their steps." a book"</figcaption>
 </figure>
 
-*line skip*
+
 <h2> Reflections </h2>
 The biggest distraction for this protoype was my drawings. They were uneven and messy at times so the user took note of those characteristics. If I could do this project again, I would still do the wireframes by hand since it is good practice of protoyping sinced it is "easy" to be organizeded digitially. If I did this on my iPad, I could use alot of tools to make it neater but I think handwriting is more benaficial. The user was comfortable giving me feedback and I think the paper format contributed to that feeling of ease because they see it as a "not=so-serious" task. Interestingly enough, the user told me she thought the overall project was really easy. She jsut said that the paper format made it hard since she had to imagine it digitally. Not sure if I should see this as a postive or negative- I feel like it could be both. Positive because they were able to imagine my prototype as digital. Negative becuase it made me wonder if was it to messy/difficult to understand as it is. To add some errors, I made was forgetting to draw arrows for some of the back functions. While the tasks I had did not use them very much (nor did it "need" the arrows I forgot to draw) it is still important to note about thsi error so that I can reflect and be more aware for next time. Also, next time, I woudl emphasize more that the user can draw, write, highlight as they please --> the user didn't highlight any of the arrows trails they used so if this was a bigger group study and if none of the users highlighted the arrows they used, it would be difficult to know what pages were  possible page+tasksequences/buttons/ were more common and/or unused.
 
 
-
+*note: I had to write "line skip" for some sections because no matter what I did, the lines would not skip.
 
 
 
